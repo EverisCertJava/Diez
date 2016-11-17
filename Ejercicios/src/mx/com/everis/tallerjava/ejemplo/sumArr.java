@@ -12,7 +12,7 @@ public class sumArr {
 			sum=sum+i0[i];
 			System.err.println("Suma Acumulada: "+sum);
 		}
-		System.err.println("### Suma Final: "+sum+" ###");
+		System.err.println("### Suma Final: "+sum+" ###\n\n\n");
 		
 		sum=0;
 		System.out.println("//Cambio de Indice**");
