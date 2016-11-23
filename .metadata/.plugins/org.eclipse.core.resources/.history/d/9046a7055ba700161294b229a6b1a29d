@@ -1,0 +1,11 @@
+package mx.com.everis.certjava.padre;
+
+public class Person {
+
+	Person(){
+		System.out.println("Person class");
+	}
+	Person(String nombre){
+		System.out.println("Person class "+nombre);
+	}
+}

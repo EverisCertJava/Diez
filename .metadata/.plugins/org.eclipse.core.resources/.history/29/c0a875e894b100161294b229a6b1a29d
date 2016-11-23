@@ -1,0 +1,13 @@
+package mx.com.everis.tallerjava.variables;
+
+import static mx.com.everis.tallerjava.vars.Reglas2;
+
+public class Reglas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+	}
+
+}

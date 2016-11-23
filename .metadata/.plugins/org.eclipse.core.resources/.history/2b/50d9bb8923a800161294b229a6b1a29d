@@ -1,0 +1,18 @@
+package mx.com.everis.tallerjava.test;
+
+import mx.com.everis.tallerjava.ejemplo.Persona;
+
+public class Testing extends Persona {
+
+	
+
+	Testing() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String... args) {
+		
+		
+	}
+}

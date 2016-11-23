@@ -1,0 +1,10 @@
+package mx.com.everis.tallerjava.ejemplo;
+
+public class sumArr {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;mx.com.everis.tallerjava.ejemplo&apos; to &apos;Ejercicios/src&apos;&#x0A;- Original project: &apos;ModificadorAbstract&apos;&#x0A;- Destination element: &apos;Ejercicios/src&apos;&#x0A;- Original element: &apos;ModificadorAbstract/src/mx.com.everis.tallerjava.ejemplo&apos;" description="Copy package" destination="=Ejercicios/src" element1="/src&lt;mx.com.everis.tallerjava.ejemplo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1479396777011" version="1.0"/>
+</session>
