@@ -7,7 +7,6 @@ import mx.com.everis.TallerJava.enums.TamanioCaffe;
 public class TestEnum {
 
 	public static void main(String[] args) {
-		
 		//System.err.println("=== Enums ===");
 		//System.out.println(TamanioCaffe.CHICO.getValue()); //0~200
 		//System.out.println(TamanioCaffe.MEDIANO.getValue()); // 201~400
@@ -15,14 +14,12 @@ public class TestEnum {
 		
 		/* decidir de que tamaño es el vaso de cafe (switch o if) */
 		
+		Scanner sc = new Scanner(System.in);
 		
-		
-		//int ml;
+		int ml;
 		System.err.println("Muy Buen Día!");
 		System.out.println("Cuantos Mililitros de Café quiere?");
-		
-		Scanner sc = new Scanner(System.in);
-		int ml = Integer.parseInt(sc.nextLine());
+		ml = sc.nextInt();
 		
 		if(ml<0)
 			System.err.println("¿?");

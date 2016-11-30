@@ -23,6 +23,8 @@ public class TestEnum {
 		
 		Scanner sc = new Scanner(System.in);
 		int ml = Integer.parseInt(sc.nextLine());
+			
+		System.err.println(ml);
 		
 		if(ml<0)
 			System.err.println("¿?");
