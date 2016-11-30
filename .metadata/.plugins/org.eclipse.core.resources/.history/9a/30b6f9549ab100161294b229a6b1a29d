@@ -1,0 +1,21 @@
+package mx.com.everis.tallerjava.variables;
+
+import static mx.com.everis.tallerjava.vars.Reglas2.name;
+import static java.lang.Integer.MAX_VALUE;
+//import static java.lang.Long.MAX_VALUE;
+
+public class Reglas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	Long age = Long.MAX_VALUE;
+	//Integer edad = Integer.MAX_VALUE;
+	
+	String data = lugar;
+	
+	int valor = Method();
+
+}

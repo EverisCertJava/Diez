@@ -1,0 +1,9 @@
+package mx.com.everis.tallerjava.test;
+
+public interface Interfaz {
+
+	String getNombre();
+	
+	String apellido="";
+	
+}

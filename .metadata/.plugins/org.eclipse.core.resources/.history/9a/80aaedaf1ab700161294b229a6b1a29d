@@ -1,0 +1,15 @@
+package mx.com.everis.TallerJava.Test;
+
+import mx.com.everis.TallerJava.enums.TamanioCaffe;
+
+public class TestEnum {
+
+	public static void main(String[] args) {
+		System.err.println("=== Enums ===");
+		System.out.println(TamanioCaffe.CHICO.g);
+		System.out.println(TamanioCaffe.MEDIANO);
+		System.out.println(TamanioCaffe.GRANDE);
+
+	}
+
+}

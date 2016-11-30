@@ -16,10 +16,12 @@
 <workingSet editPageId="com.ibm.etools.project.OthersWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478618236002_13" label="Uncategorized Projects" name="OthersWorkingSet.name">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DefinicionClase" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicios" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Enums" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EstructuraClase" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ModificadorAbstract" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ModificadorFinal" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ModificadoresAccess" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Polimorfismo" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/javaBasico" type="4"/>
 </workingSet>

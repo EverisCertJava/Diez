@@ -1,0 +1,12 @@
+package mx.com.everis.TallerJava.enums;
+
+public enum TamanioCaffe {
+	
+	/*	*/
+	CHICO, 
+	/*	*/
+	MEDIANO, 
+	/*	*/
+	GRANDE;
+
+}

@@ -1,0 +1,10 @@
+package com.everis.tallerjava.testing;
+
+public class TestPolimor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

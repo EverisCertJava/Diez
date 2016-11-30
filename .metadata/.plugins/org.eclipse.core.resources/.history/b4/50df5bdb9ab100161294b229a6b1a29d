@@ -1,0 +1,16 @@
+package mx.com.everis.tallerjava.test;
+
+import mx.com.everis.tallerjava.test.Interfaz;
+
+public class Testing {
+	
+	public String getNombre(){
+	
+		apellido="Mario";
+		
+		return null;
+	}
+	
+	
+
+}

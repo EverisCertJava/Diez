@@ -1,0 +1,36 @@
+package mx.com.everis.TallerJava.Test;
+
+import java.util.Scanner;
+
+import mx.com.everis.TallerJava.enums.TamanioCaffe;
+
+public class TestEnum {
+
+	public static void main(String[] args) {
+		//System.err.println("=== Enums ===");
+		//System.out.println(TamanioCaffe.CHICO.getValue()); //0~200
+		//System.out.println(TamanioCaffe.MEDIANO.getValue()); // 201~400
+		//System.out.println(TamanioCaffe.GRANDE.getValue()); //400~600
+		
+		/* decidir de que tamaño es el vaso de cafe (switch o if) */
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int ml;
+		System.err.println("Muy Buen Día!");
+		System.out.println("Cuantos Mililitros de Café quiere?");
+		ml = sc.nextInt();
+		if(ml<0)
+			System.out.println("¿?");
+		else if(ml < 200)
+			System.out.println(TamanioCaffe.CHICO.getValue()); //0~200
+		else if(ml<400)
+			System.out.println(TamanioCaffe.MEDIANO.getValue()); // 201~400
+		else if(ml<600)
+			System.out.println(TamanioCaffe.GRANDE.getValue()); // 201~400
+		else
+			System.err.println("No debería tomar tanto café!"); // 400~999
+
+	}
+
+}

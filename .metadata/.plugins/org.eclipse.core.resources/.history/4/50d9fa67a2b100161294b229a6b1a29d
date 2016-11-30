@@ -1,0 +1,12 @@
+package com.everis.tallerjava.claseshijas;
+
+import com.everis.tallerjava.clasepadre.Liquido;
+
+public class Leche extends Liquido{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

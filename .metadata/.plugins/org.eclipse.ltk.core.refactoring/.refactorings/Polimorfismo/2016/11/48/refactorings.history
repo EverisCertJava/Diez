@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Cafe.java&apos; to &apos;com.everis.tallerjava.claseshijas.Cafe.java&apos;&#x0A;- Original project: &apos;Polimorfismo&apos;&#x0A;- Destination element: &apos;com.everis.tallerjava.claseshijas.Cafe.java&apos;&#x0A;- Original element: &apos;com.everis.tallerjava.claseshijas.Cafe.java&apos;" description="Copy compilation unit" destination="/src&lt;com.everis.tallerjava.claseshijas{Cafe.java" element1="/src&lt;com.everis.tallerjava.claseshijas{Cafe.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1479921243207" units="1" version="1.0"/>
+</session>
